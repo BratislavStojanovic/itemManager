@@ -1,1 +1,1 @@
-# itemManager
+#Front-end itemManager za itemAPI
